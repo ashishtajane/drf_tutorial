@@ -83,8 +83,8 @@ DATABASES = {
         'NAME': 'drf_tutorial',
         'USER': DB_USER,
         'PASSWORD': DB_PWD,
-        'HOST': DB_HOST,
-        'PORT': DB_PORT
+        'HOST': DB_HOST,  # 127.0.0.1
+        'PORT': DB_PORT  # 5432
     }
 }
 
