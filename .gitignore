@@ -1,0 +1,6 @@
+drf_tutorial/secret.py
+
+*.pot
+*.pyc
+__pycache__/
+.coverage
